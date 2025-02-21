@@ -30,7 +30,7 @@ The dataset used is **dataset_DT_NB.csv**, which consists of attributes such as 
   4. **Glucose_wellAboveNormal**
 
 ## Screenshots
-![Accuracy](images/accuracyGine.png)
+![Accuracy](images/accuracyGini.png)
 ![Confusion Matrix](images/confusionMatrix.png)
 
 
